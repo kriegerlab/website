@@ -26,18 +26,18 @@ Our group is based at the Institute of Pathology at Charité – Universitätsme
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Postal address:
-Institute of Pathology
-Charité – Universitätsmedizin Berlin
-Charitéplatz 1
-10117 Berlin
+**Postal address:**
+Institute of Pathology<br>
+Charité – Universitätsmedizin Berlin<br>
+Charitéplatz 1<br>
+10117 Berlin<br>
 Germany
 {% endcapture %}
 
 {% capture col2 %}
-Campus address:
-Virchowweg 18
-10117 Berlin
+**Campus address:**<br>
+Virchowweg 18<br>
+10117 Berlin<br>
 Germany
 {% endcapture %}
 
