@@ -7,9 +7,7 @@ nav:
 
 # Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our group is based at the Institute of Pathology at Charité – Universitätsmedizin Berlin, Campus Mitte, on the university hospital site and in close proximity to a wide range of neighbouring research institutes; we greatly benefit from the core facilities and other resources available here. 
 
 {%
   include button.html
