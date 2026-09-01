@@ -9,21 +9,6 @@ Our goal is to determine which information is needed to make better clinical dec
 
 {% include section.html %}
 
-{% capture text %}
-
-Our work spans spatial and single-cell analysis, computational pathology, and machine-learning methods for understanding cancer biology.
-
-{%
-  include button.html
-  link="research"
-  text="View"
-  icon="fa-solid fa-arrow-right-long"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
 {%
   include feature.html
   image="images/photo.jpg"
@@ -56,6 +41,23 @@ We study how tumour cells interact with each other and their environment, how ca
   style="bare"
   text=text
 %}
+
+
+{% capture text %}
+
+Our work spans spatial and single-cell analysis, computational pathology, and machine-learning methods for understanding cancer biology.
+
+{%
+  include button.html
+  link="research"
+  text="View our publications"
+  icon="fa-solid fa-arrow-right-long"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
 
 {% capture text %}
 
