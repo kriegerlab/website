@@ -48,6 +48,15 @@ header a {
 
 .title {
   font-size: var(--large);
+  font-weight: 400;
+}
+
+.title strong {
+  font-weight: 700;
+}
+
+.title .lab {
+  font-weight: 400;
 }
 
 .subtitle {
@@ -137,17 +146,10 @@ header[data-big] .title-text {
   text-align: center;
 }
 header[data-big] .title {
-  font-size: var(--xxl);
-  font-weight: 400;
-}
-header[data-big] .title strong {
-  font-weight: 700;
-}
-header[data-big] .title .lab {
-  font-weight: 400;
+  font-size: 2.4rem;
 }
 header[data-big] .subtitle {
-  font-size: var(--large);
+  font-size: 1rem;
 }
 
 /*# sourceMappingURL=header.css.map */
