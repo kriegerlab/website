@@ -14,12 +14,13 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="teresa.krieger@charite.de"
+  text="Email"
   link="teresa.krieger@charite.de"
 %}
 {%
   include button.html
   type="address"
+  text="Address"
   tooltip="Our location on Google Maps"
   link="https://maps.app.goo.gl/JBJioDntUMBHWM6B6"
 %}
