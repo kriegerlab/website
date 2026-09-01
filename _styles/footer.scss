@@ -21,6 +21,11 @@ footer a:hover {
   color: var(--primary) !important;
 }
 
+footer .button[data-style="bare"] {
+  margin: 0 2px;
+  padding: 2px;
+}
+
 footer .icon {
   font-size: 0.75rem;
 }
