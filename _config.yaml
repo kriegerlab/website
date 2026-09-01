@@ -9,12 +9,10 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@kriegerlab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: tgkrieger.lab@gmail.com
+  orcid: 0000-0001-6676-9988
+  google-scholar: wSWvUPQAAAAJ
   github: kriegerlab
-  twitter: kriegerlab
-  youtube: kriegerlab
 
 ### jekyll settings
 
