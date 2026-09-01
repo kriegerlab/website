@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="View"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -39,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -64,7 +64,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet us"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
