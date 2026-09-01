@@ -51,14 +51,6 @@ header a {
   font-weight: 400;
 }
 
-.title strong {
-  font-weight: 700;
-}
-
-.title .lab {
-  font-weight: 400;
-}
-
 .subtitle {
   opacity: 0.65;
   font-weight: var(--thin);
