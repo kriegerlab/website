@@ -11,7 +11,7 @@ Our goal is to determine which information is needed to make better clinical dec
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our work spans spatial and single-cell analysis, computational pathology, and machine-learning methods for understanding cancer biology.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We study how tumour cells interact with each other and their environment, how cancers change during treatment, and how these processes are reflected in tissue morphology.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a multidisciplinary team of scientists and clinicians working together to understand cancer from different perspectives.
 
 {%
   include button.html
