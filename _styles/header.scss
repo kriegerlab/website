@@ -3,7 +3,7 @@
 
 $logo-big: 80px;
 $logo: 40px;
-$big-padding: 100px;
+$big-padding: 45px;
 $collapse: 700px;
 $sticky: true;
 
@@ -99,9 +99,8 @@ nav {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  gap: 10px;
-  font-family: var(--heading);
-  text-transform: uppercase;
+  gap: 14px;
+  font-family: var(--body);
 }
 
 nav > a {
@@ -160,9 +159,21 @@ header[data-big] {
 
   .title {
     font-size: var(--xxl);
+    font-weight: 400;
+  }
+  
+  .title strong {
+    font-weight: 700;
+  }
+  
+  .title .lab {
+    font-weight: 400;
   }
 
   .subtitle {
     font-size: var(--large);
   }
 }
+
+
+
