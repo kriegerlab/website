@@ -5,6 +5,6 @@
 
   # kriegerlab's Website
 
-  Visit **[website URL](#)** 🚀
+  Visit **[kriegerlab.github.io/website](https://kriegerlab.github.io/website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
