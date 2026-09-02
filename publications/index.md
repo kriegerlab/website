@@ -8,7 +8,9 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Concept-based explanation of gene expression prediction from H&E images" style="rich" %}
+
+{% include citation.html lookup="Transcriptionally defined morphological subtypes of pancreatic ductal adenocarcinoma" style="rich" %}
 
 {% include section.html %}
 
