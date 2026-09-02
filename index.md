@@ -5,14 +5,6 @@ We are a computational oncology group at Charité Berlin studying how tumours ar
 
 {% include section.html %}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
 {% capture text %}
 
 We study how tumour cells interact with each other and their environment, how cancers change during treatment, and how these processes are reflected in tissue morphology.
