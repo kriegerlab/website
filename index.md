@@ -7,7 +7,7 @@ We are a computational oncology group at Charité Berlin studying how tumours ar
 
 {% capture text %}
 
-We study how tumour cells interact with each other and their environment, how cancers change during treatment, and how these processes are reflected in tissue morphology.
+We study how tumours are organised and evolve during treatment, and develop interpretable machine-learning methods to connect molecular, spatial, and morphological information with clinical outcomes.
 
 {%
   include button.html
@@ -32,7 +32,7 @@ We study how tumour cells interact with each other and their environment, how ca
 
 {% capture text %}
 
-We are a multidisciplinary team of scientists and clinicians working together to understand cancer from different perspectives.
+We are a multidisciplinary team of computer scientists, biologists and clinicians.
 
 {%
   include button.html
