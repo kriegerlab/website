@@ -47,4 +47,8 @@ h6 {
   color: var(--light-gray);
 }
 
+.anchor {
+  display: none;
+}
+
 /*# sourceMappingURL=heading.css.map */
