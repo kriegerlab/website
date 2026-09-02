@@ -1,11 +1,7 @@
 ---
 ---
 
-We are a computational oncology group at Charité Berlin studying how tumours are organised, evolve, and respond to treatment.
-
-We combine **spatial and single-cell technologies, computational pathology, and machine learning** to connect molecular and cellular states with tissue morphology. 
-
-Our goal is to determine which information is needed to make better clinical decisions for cancer patients.
+We are a computational oncology group at Charité Berlin studying how tumours are organised, evolve, and respond to treatment. We combine **spatial and single-cell technologies, computational pathology, and machine learning** to connect molecular and cellular states with tissue morphology. Our goal is to determine which information is needed to make better clinical decisions for cancer patients.
 
 {% include section.html %}
 
@@ -24,7 +20,7 @@ We study how tumour cells interact with each other and their environment, how ca
 {%
   include button.html
   link="projects"
-  text="Browse"
+  text="Explore"
   icon="fa-solid fa-arrow-right-long"
   flip=true
   style="bare"
@@ -41,23 +37,6 @@ We study how tumour cells interact with each other and their environment, how ca
   style="bare"
   text=text
 %}
-
-
-{% capture text %}
-
-Our work spans spatial and single-cell analysis, computational pathology, and machine-learning methods for understanding cancer biology.
-
-{%
-  include button.html
-  link="research"
-  text="View our publications"
-  icon="fa-solid fa-arrow-right-long"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
 
 {% capture text %}
 
