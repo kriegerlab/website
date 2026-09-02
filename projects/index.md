@@ -15,11 +15,11 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Method development
 
-{% include list.html component="card" data="projects" filter="group == 'method'" %}
+{% include list.html component="card" data="projects" filter="group == 'method'" style="small" %}
 
 {% include section.html %}
 
 ## Translational oncology
 
-{% include list.html component="card" data="projects" filter="!group" %}
+{% include list.html component="card" data="projects" filter="!group" style="small" %}
 
