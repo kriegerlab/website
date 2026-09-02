@@ -51,4 +51,8 @@ h6 {
   display: none;
 }
 
+a.icon.fa-solid.fa-link.anchor {
+  display: none !important;
+}
+
 /*# sourceMappingURL=heading.css.map */
