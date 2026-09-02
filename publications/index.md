@@ -2,7 +2,6 @@
 title: Publications
 nav:
   order: 4
-  tooltip: Published works
 ---
 
 {% include section.html %}
