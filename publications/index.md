@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-book-open" %}Publications
+# Publications
 
 Our publications span spatial and single-cell analysis, computational pathology, and machine-learning approaches for understanding cancer biology.
 
