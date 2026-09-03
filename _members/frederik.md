@@ -6,4 +6,4 @@ links:
   email: frederik.kaussmann@charite.de
 ---
 
-Medical doctor by training, software engineer by choice, Eli is building tools to better analyse spatial transcriptomics data from pancreatic cancer samples.
+Studying for an MSc in Molecular Medicine, Frederik is passionate about genomics, Cologne Carnival, and German pop music.
