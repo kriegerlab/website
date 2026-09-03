@@ -7,7 +7,7 @@ We are a computational oncology group at Charité Berlin studying how tumours ar
 
 {% capture text %}
 
-We study how tumours are organised and evolve during treatment, and develop interpretable machine-learning methods to connect molecular, spatial, and morphological information with clinical outcomes.
+We develop interpretable machine-learning methods to predict molecular states from tissue images and understand which morphological features drive these predictions. We apply these and other computational approaches to study tumour heterogeneity, evolution, and treatment response in patient samples, and how they relate to clinical outcomes.
 
 {%
   include button.html
@@ -32,7 +32,7 @@ We study how tumours are organised and evolve during treatment, and develop inte
 
 {% capture text %}
 
-We are a multidisciplinary team of computer scientists, biologists and clinicians.
+We are a multidisciplinary team of computer scientists, biologists and clinicians working at the Charité Mitte campus in the centre of Berlin.
 
 {%
   include button.html
