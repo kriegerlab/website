@@ -1,6 +1,6 @@
 ---
 name: Eli Spies
-image: images/eli.jpg
+image: images/people/eli.jpg
 description: MD student
 links:
   email: eli.spies@charite.de
