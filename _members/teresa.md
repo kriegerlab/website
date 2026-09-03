@@ -1,6 +1,6 @@
 ---
 name: Teresa G Krieger
-image: images/teresa.jpg
+image: images/people/teresa.jpg
 description: Principal Investigator
 aliases:
   - T. Krieger
