@@ -17,6 +17,10 @@ Tumours are complex tissues in which malignant cells coexist and interact with i
 
 Our current work spans several cancer types, including pancreatic and ovarian cancer, neuroblastoma, and sarcoma, and uses technologies ranging from single-cell RNA sequencing to spatial transcriptomics and highly multiplexed imaging.
 
+**Projects**
+
+{% include list.html component="card" data="projects" filter="group == 'method'" style="small" %}
+
 {% include section.html %}
 
 ## Computational pathology
@@ -25,6 +29,9 @@ Histopathology captures a remarkable amount of information about the underlying 
 
 We are particularly interested in combining histopathology with spatial molecular measurements to understand which aspects of tumour heterogeneity are visible in tissue morphology, and which require additional molecular information.
 
+**Projects**
+{% include list.html component="card" data="projects" filter="group == 'method'" style="small" %}
+
 {% include section.html %}
 
 ## Interpretable machine learning
@@ -32,3 +39,7 @@ We are particularly interested in combining histopathology with spatial molecula
 Machine-learning models can make increasingly accurate predictions from complex biological and medical data, but understanding **what information they use to make those predictions** remains challenging. We develop and apply interpretable machine-learning approaches to identify the biological and morphological concepts underlying model predictions.
 
 Rather than treating interpretability only as a way to explain an individual prediction, we are also interested in using it as a **tool for scientific discovery**: to identify previously unrecognised patterns in tissue, relate learned representations to molecular states, and test whether models and human experts use the same information.
+
+**Projects**
+{% include list.html component="card" data="projects" filter="group == 'method'" style="small" %}
+
