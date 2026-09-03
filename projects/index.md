@@ -6,8 +6,7 @@ nav:
 
 # Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We develop computational methods to better understand and predict cancer, and apply them to clinically relevant questions across different tumour types.
 
 {% include search-info.html %}
 
