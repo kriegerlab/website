@@ -6,7 +6,7 @@ nav:
 
 {% include section.html %}
 
-## Highlights
+## Selected publications
 
 {% include citation.html lookup="Concept-based explanation of gene expression prediction from H&E images" style="rich" %}
 
