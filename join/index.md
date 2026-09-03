@@ -10,7 +10,7 @@ We are always keen to hear from students and researchers interested in computati
 
 ### PhD and postdoctoral researchers
 
-Open positions will be advertised here when funding is available. We also welcome enquiries from researchers interested in developing fellowship or scholarship applications together with us.
+Open positions will be advertised here. We also welcome enquiries from researchers interested in developing fellowship or scholarship applications together with us.
 
 ### Master's and medical students
 
