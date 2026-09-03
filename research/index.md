@@ -9,17 +9,23 @@ nav:
 
 Tumours contain molecular, cellular, spatial, and morphological information at very different levels. Our research asks how these different views relate to one another, and how we can best obtain the information needed to improve clinical decisions.
 
+{% include section.html %}
+
 ## Spatial tumour biology
 
 Tumours are complex tissues in which malignant cells coexist and interact with immune, stromal, and other cell populations. We use spatial and single-cell technologies to study **tumour cell states, cellular neighbourhoods, and the spatial organisation of the tumour microenvironment**, and to understand how these change during tumour evolution and treatment.
 
 Our current work spans several cancer types, including pancreatic and ovarian cancer, neuroblastoma, and sarcoma, and uses technologies ranging from single-cell RNA sequencing to spatial transcriptomics and highly multiplexed imaging.
 
+{% include section.html %}
+
 ## Computational pathology
 
 Histopathology captures a remarkable amount of information about the underlying biology of a tumour. We develop machine-learning approaches that connect **tissue morphology with molecular and cellular phenotypes**, asking what can be learned about tumour biology from routine images.
 
 We are particularly interested in combining histopathology with spatial molecular measurements to understand which aspects of tumour heterogeneity are visible in tissue morphology, and which require additional molecular information.
+
+{% include section.html %}
 
 ## Interpretable machine learning
 
