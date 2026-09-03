@@ -147,6 +147,7 @@ header[data-big] .subtitle {
 
 header[data-big] .subtitle {
   color: white;
+  opacity: 1;
   font-style: italic;
 }
 
