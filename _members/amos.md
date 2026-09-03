@@ -1,6 +1,7 @@
 ---
 name: Amos Münch
 image: images/amos.jpg
+description: PhD student
 links:
   email: amos.muench@charite.de
 ---
