@@ -1,9 +1,9 @@
 ---
 title: Research
 nav:
-order: 2
-tooltip: Research
------------------
+  order: 1
+---
+
 
 # Research
 
