@@ -16,10 +16,14 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
+   
+
+{% include section.html %}
 
 **Alumni:**
 
 **Elif Abacilar** spent her school summer holidays with us to learn all about spatial transcriptomics. We look forward to meeting again!
+
 **Jonathan Thielmann** joined us for his MSc in Computer Science and did a phenomenal deep dive into XAI. Now continuing to track relevances in neural networks over at the Fraunhofer Institute.
 **Caroline Forsythe**, bioinformatician by day and fitness instructor by evening, moved back to the US after her MSc with us.
 **Shubhangi Kaushik** completed her MSc in Bioinformatics, developing a neural network model for predicting gene amplification from H&E images.
