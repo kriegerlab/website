@@ -1,6 +1,6 @@
 ---
 name: Frederik Kaußmann
-image: images/frederik.jpg
+image: images/people/frederik.jpg
 description: Master's rotation student
 links:
   email: frederik.kaussmann@charite.de
