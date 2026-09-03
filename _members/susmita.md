@@ -1,6 +1,6 @@
 ---
 name: Susmita Mandal
-image: images/susmita.jpg
+image: images/people/susmita.jpg
 description: PhD student
 links:
   email: susmita.mandal@charite.de
