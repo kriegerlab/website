@@ -19,7 +19,7 @@ Our current work spans several cancer types, including pancreatic and ovarian ca
 
 **Projects**
 
-{% include list.html component="card" data="projects" filter="group == 'method'" style="small" %}
+{% include list.html component="card" data="projects" filter="!group" style="small" %}
 
 {% include section.html %}
 
@@ -30,7 +30,7 @@ Histopathology captures a remarkable amount of information about the underlying 
 We are particularly interested in combining histopathology with spatial molecular measurements to understand which aspects of tumour heterogeneity are visible in tissue morphology, and which require additional molecular information.
 
 **Projects**
-{% include list.html component="card" data="projects" filter="group == 'method'" style="small" %}
+{% include list.html component="card" data="projects" filter="!group" style="small" %}
 
 {% include section.html %}
 
@@ -41,5 +41,5 @@ Machine-learning models can make increasingly accurate predictions from complex 
 Rather than treating interpretability only as a way to explain an individual prediction, we are also interested in using it as a **tool for scientific discovery**: to identify previously unrecognised patterns in tissue, relate learned representations to molecular states, and test whether models and human experts use the same information.
 
 **Projects**
-{% include list.html component="card" data="projects" filter="group == 'method'" style="small" %}
+{% include list.html component="card" data="projects" filter="!group" style="small" %}
 
