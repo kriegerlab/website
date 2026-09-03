@@ -19,7 +19,7 @@ Our group is based at the Institute of Pathology at Charité – Universitätsme
   type="address"
   text="Location"
   tooltip="Our location on Google Maps"
-  link="https://maps.app.goo.gl/JBJioDntUMBHWM6B6"
+  link="https://maps.app.goo.gl/VAB9LeqhM76cZqJP8"
 %}
 
 {% include section.html dark=true %}
