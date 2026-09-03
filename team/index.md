@@ -6,8 +6,6 @@ nav:
 
 # Team
 
-Our team brings together expertise in computational science, cancer biology, and medicine.
-
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
