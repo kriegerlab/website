@@ -3,8 +3,10 @@ name: Teresa G Krieger
 image: images/teresa.jpg
 role: principal-investigator
 aliases:
-  - J. Smith
-  - J Smith
+  - T. Krieger
+  - T Krieger
+  - T G Krieger
+  - T. G. Krieger
 links:
   orcid: 0000-0001-6676-9988
 ---
