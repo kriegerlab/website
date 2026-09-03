@@ -31,7 +31,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 **Hamidreza Parand** interned with us during his MSc in Epidemiology, investigating metrics for spatially patterned gene expression that helped our XAI work along.
 **Pedram Ramezani** helped us set up deep learning architectures as a student assistant, and went on to finish medical school.
 **Jonas Lehmitz** left neurology training to complete an MSc in Data Science, and joined us for his thesis work on spatial transcriptomics data analysis. He subsequently moved to Munich to bring machine learning into hospital software. Fingers crossed!
-**Mohammad el-Ismail** worked on this MSc thesis with us, making deep learning based predictions from histopathological images of pancreatic cancer. Then went into industry as a computer vision engineer. 
+**Mohammad el-Ismail** worked on his MSc thesis with us, making deep learning based predictions from H&E images of pancreatic cancer. Then went into industry as a computer vision engineer. 
 
 {% include section.html %}
 
