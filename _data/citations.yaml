@@ -20,6 +20,7 @@
   orcid: 0000-0001-6676-9988
   plugin: sources.py
   file: sources.yaml
+  image: images/publications/pdac_organoids.png
 - id: doi:10.1038/s41467-021-26059-4
   title: Single-cell analysis of patient-derived PDAC organoids reveals cell state
     heterogeneity and a conserved developmental hierarchy
@@ -42,6 +43,7 @@
   orcid: 0000-0001-6676-9988
   plugin: sources.py
   file: sources.yaml
+  image: images/publications/pdac_sc.png
 - id: doi:10.3390/cancers13051097
   title: Functional States in Tumor-Initiating Cell Differentiation in Human Colorectal
     Cancer
@@ -74,6 +76,7 @@
   orcid: 0000-0001-6676-9988
   plugin: sources.py
   file: sources.yaml
+  image: images/publications/crc_stephan.png
 - id: doi:10.1242/jcs.245043
   title: Automated 3D light-sheet screening with high spatiotemporal resolution reveals
     mitotic phenotypes
@@ -93,6 +96,7 @@
   orcid: 0000-0001-6676-9988
   plugin: sources.py
   file: sources.yaml
+  image: images/publications/bjoern.png
 - id: doi:10.1093/neuonc/noaa091
   title: Modeling glioblastoma invasion using human brain organoids and single-cell
     transcriptomics
@@ -112,6 +116,7 @@
   orcid: 0000-0001-6676-9988
   plugin: sources.py
   file: sources.yaml
+  image: images/publications/glioblastoma.png
 - id: doi:10.1038/s41598-019-48771-4
   title: "Pheno-seq \u2013 linking visual features and gene expression in 3D cell\
     \ culture systems"
@@ -142,6 +147,7 @@
   orcid: 0000-0001-6676-9988
   plugin: sources.py
   file: sources.yaml
+  image: images/publications/phenoseq.png
 - id: doi:10.1101/630202
   title: Modeling glioblastoma invasion using human brain organoids and single-cell
     transcriptomics
@@ -208,6 +214,7 @@
   orcid: 0000-0001-6676-9988
   plugin: sources.py
   file: sources.yaml
+  image: images/publications/review_ben.png
 - id: issn:0092-8674
   title: ISSN 0092-8674 - Cell (Cambridge)
   authors: []
@@ -238,7 +245,32 @@
   description: We introduce an interpretable framework that links molecular states
     to tissue morphology, turning gene expression prediction from H&E into a tool
     for discovering the morphological concepts underlying tumour biology.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  image: images/publications/
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2022.09.23.509133
+  title: Transcriptionally defined morphological subtypes of pancreatic ductal adenocarcinoma
+  authors:
+  - Teresa G Krieger
+  - Alexander Sudy
+  - Felix Schicktanz
+  - Luca Tosti
+  - Johannes Liebig
+  - "Bj\xF6rn Konukiewitz"
+  - Morgane Rouault
+  - "Ane\u017Eka Niesnerov\xE1"
+  - Xiaoyan Qian
+  - Wilko Weichert
+  - Roland Eils
+  - Katja Steiger
+  - Christian Conrad
+  publisher: openRxiv
+  date: '2022-09-23'
+  link: https://doi.org/hchfp3
+  description: We integrate spatial transcriptomics and tissue morphology to show
+    how transcriptionally defined tumour cell states correspond to distinct patterns
+    of spatial organisation and tissue architecture.
+  image: images/publications/pdac_alex.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1158/2159-8290.CD-24-1738
@@ -285,31 +317,55 @@
   publisher: Cancer Discovery
   date: '2025-08-07'
   link: https://doi.org/hchfp2
+  image: images/publications/mycn.jpg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2022.09.23.509133
-  title: Transcriptionally defined morphological subtypes of pancreatic ductal adenocarcinoma
+- id: https://www.nature.com/articles/s41587-020-00796-1
+  title: Hypertension delays viral clearance and exacerbates airway hyperinflammation
+    in patients with COVID-19
   authors:
-  - Teresa G Krieger
-  - Alexander Sudy
-  - Felix Schicktanz
-  - Luca Tosti
+  - Saskia Trump
+  - Soeren Lukassen
+  - Markus S. Anker
+  - Robert Lorenz Chua
   - Johannes Liebig
-  - "Bj\xF6rn Konukiewitz"
-  - Morgane Rouault
-  - "Ane\u017Eka Niesnerov\xE1"
-  - Xiaoyan Qian
-  - Wilko Weichert
+  - "Loreen Th\xFCrmann"
+  - Victor Max Corman
+  - Marco Binder
+  - Jennifer Loske
+  - Christina Klasa
+  - Teresa Krieger
+  - Bianca P. Hennig
+  - Marey Messingschlager
+  - Fabian Pott
+  - Julia Kazmierski
+  - Sven Twardziok
+  - Jan Philipp Albrecht
+  - "J\xFCrgen Eils"
+  - Sara Hadzibegovic
+  - Alessia Lena
+  - Bettina Heidecker
+  - "Thore B\xFCrgel"
+  - Jakob Steinfeldt
+  - Christine Goffinet
+  - Florian Kurth
+  - Martin Witzenrath
+  - "Maria Theresa V\xF6lker"
+  - "Sarah Dorothea M\xFCller"
+  - Uwe Gerd Liebert
+  - Naveed Ishaque
+  - Lars Kaderali
+  - Leif-Erik Sander
+  - Christian Drosten
+  - Sven Laudi
   - Roland Eils
-  - Katja Steiger
   - Christian Conrad
-  publisher: openRxiv
-  date: '2022-09-23'
-  link: https://doi.org/hchfp3
-  description: We integrate spatial transcriptomics and tissue morphology to show
-    how transcriptionally defined tumour cell states correspond to distinct patterns
-    of spatial organisation and tissue architecture.
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Ulf Landmesser
+  - Irina Lehmann
+  publisher: Nature Biotechnology
+  date: '2021-06-01'
+  link: https://www.nature.com/articles/s41587-020-00796-1
+  image: images/publications/covid.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1073/pnas.1908762116
@@ -336,6 +392,7 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2019-10-18'
   link: https://doi.org/gsvrns
+  image: images/publications/thra.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1073/pnas.1715911114
@@ -357,6 +414,7 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2018-01-08'
   link: https://doi.org/gcw59k
+  image: images/publications/troy.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cell.2014.10.027
@@ -382,5 +440,6 @@
   publisher: Cell
   date: '2014-11-01'
   link: https://doi.org/f6phdw
+  image: images/publications/cell.png
   plugin: sources.py
   file: sources.yaml
