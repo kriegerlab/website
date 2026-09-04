@@ -1,7 +1,5 @@
 ---
 title: Projects
-nav:
-  order: 
 ---
 
 # Projects
