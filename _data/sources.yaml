@@ -1,6 +1,6 @@
 - id: arxiv:2608.16669
   description: We introduce an interpretable framework that links molecular states to tissue morphology, turning gene expression prediction from H&E into a tool for discovering the morphological concepts underlying tumour biology.
-  image: images/publications/
+  image: images/publications/crp.jpg
 # date: 2020-12-4
 # buttons:
 #   - type: manubot
@@ -57,5 +57,6 @@
 - id: doi:10.1016/j.cell.2014.10.027
   image: images/publications/cell.png
 
-
+- id: doi:10.1007/s00401-025-02894-3
+  image: images/publications/neurocytoma.jpg
   
