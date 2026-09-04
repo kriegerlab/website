@@ -3,15 +3,6 @@
 
 We are a computational oncology group at Charité Berlin studying how tumours are organised, evolve, and respond to treatment. We combine **spatial and single-cell technologies, computational pathology, and machine learning** to connect molecular and cellular states with tissue morphology. Our goal is to determine which information is needed to make better clinical decisions for cancer patients.
 
-<div class="research-tags">
-  <span>Spatial Transcriptomics</span>
-  <span>Computational Pathology</span>
-  <span>Explainable AI</span>
-  <span>Machine Learning</span>
-  <span>Multimodal Data</span>
-  <span>Cancer Genomics</span>
-</div>
-
 {% include section.html %}
 
 {% capture text %}
@@ -61,3 +52,14 @@ We are a multidisciplinary team of computer scientists, biologists and clinician
   title="Our Team"
   text=text
 %}
+
+{% include section.html %}
+
+<div class="research-tags">
+  <span>Machine Learning</span>
+  <span>Explainable AI</span>
+  <span>Spatial Transcriptomics</span>
+  <span>Computational Pathology</span>
+  <span>Multimodal Omics</span>
+  <span>Cancer Genomics</span>
+</div>
