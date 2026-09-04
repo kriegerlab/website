@@ -1,229 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1186/s13046-022-02519-7
-  title: Patient-specific modeling of stroma-mediated chemoresistance of pancreatic
-    cancer using a three-dimensional organoid-fibroblast co-culture system
-  authors:
-  - Sebastian Schuth
-  - Solange Le Blanc
-  - Teresa G. Krieger
-  - Julia Jabs
-  - Miriam Schenk
-  - Nathalia A. Giese
-  - "Markus W. B\xFCchler"
-  - Roland Eils
-  - Christian Conrad
-  - Oliver Strobel
-  publisher: Journal of Experimental &amp; Clinical Cancer Research
-  date: '2022-10-22'
-  link: https://doi.org/grt4vh
-  orcid: 0000-0001-6676-9988
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/pdac_organoids.png
-- id: doi:10.1038/s41467-021-26059-4
-  title: Single-cell analysis of patient-derived PDAC organoids reveals cell state
-    heterogeneity and a conserved developmental hierarchy
-  authors:
-  - Teresa G. Krieger
-  - Solange Le Blanc
-  - Julia Jabs
-  - Foo Wei Ten
-  - Naveed Ishaque
-  - Katharina Jechow
-  - Olivia Debnath
-  - Carl-Stephan Leonhardt
-  - Anamika Giri
-  - Roland Eils
-  - Oliver Strobel
-  - Christian Conrad
-  publisher: Nature Communications
-  date: '2021-10-05'
-  link: https://doi.org/gnq8zc
-  orcid: 0000-0001-6676-9988
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/pdac_sc.png
-- id: doi:10.3390/cancers13051097
-  title: Functional States in Tumor-Initiating Cell Differentiation in Human Colorectal
-    Cancer
-  authors:
-  - Martina K. Zowada
-  - Stephan M. Tirier
-  - Sebastian M. Dieter
-  - Teresa G. Krieger
-  - Ava Oberlack
-  - Robert Lorenz Chua
-  - Mario Huerta
-  - Foo Wei Ten
-  - Karin Laaber
-  - Jeongbin Park
-  - Katharina Jechow
-  - "Torsten M\xFCller"
-  - Mathias Kalxdorf
-  - Mark Kriegsmann
-  - Katharina Kriegsmann
-  - Friederike Herbst
-  - Jeroen Krijgsveld
-  - Martin Schneider
-  - Roland Eils
-  - Hanno Glimm
-  - Christian Conrad
-  - Claudia R. Ball
-  publisher: Cancers
-  date: '2021-03-04'
-  link: https://doi.org/g65j6s
-  orcid: 0000-0001-6676-9988
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/crc_stephan.png
-- id: doi:10.1242/jcs.245043
-  title: Automated 3D light-sheet screening with high spatiotemporal resolution reveals
-    mitotic phenotypes
-  authors:
-  - "Bj\xF6rn Eismann"
-  - Teresa G. Krieger
-  - "J\xFCrgen Beneke"
-  - Ruben Bulkescher
-  - Lukas Adam
-  - Holger Erfle
-  - Carl Herrmann
-  - Roland Eils
-  - Christian Conrad
-  publisher: Journal of Cell Science
-  date: '2020-06-01'
-  link: https://doi.org/gtrbcv
-  orcid: 0000-0001-6676-9988
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/bjoern.png
-- id: doi:10.1093/neuonc/noaa091
-  title: Modeling glioblastoma invasion using human brain organoids and single-cell
-    transcriptomics
-  authors:
-  - Teresa G Krieger
-  - Stephan M Tirier
-  - Jeongbin Park
-  - Katharina Jechow
-  - Tanja Eisemann
-  - Heike Peterziel
-  - Peter Angel
-  - Roland Eils
-  - Christian Conrad
-  publisher: Neuro-Oncology
-  date: '2020-04-16'
-  link: https://doi.org/gtcxnt
-  orcid: 0000-0001-6676-9988
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/glioblastoma.png
-- id: doi:10.1038/s41598-019-48771-4
-  title: "Pheno-seq \u2013 linking visual features and gene expression in 3D cell\
-    \ culture systems"
-  authors:
-  - Stephan M. Tirier
-  - Jeongbin Park
-  - "Friedrich Preu\xDFer"
-  - Lisa Amrhein
-  - Zuguang Gu
-  - Simon Steiger
-  - Jan-Philipp Mallm
-  - Teresa Krieger
-  - Marcel Waschow
-  - "Bj\xF6rn Eismann"
-  - Marta Gut
-  - Ivo G. Gut
-  - Karsten Rippe
-  - Matthias Schlesner
-  - Fabian Theis
-  - Christiane Fuchs
-  - Claudia R. Ball
-  - Hanno Glimm
-  - Roland Eils
-  - Christian Conrad
-  publisher: Scientific Reports
-  date: '2019-08-26'
-  link: https://doi.org/g6trvm
-  orcid: 0000-0001-6676-9988
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/pheno_seq.png
-- id: doi:10.1101/630202
-  title: Modeling glioblastoma invasion using human brain organoids and single-cell
-    transcriptomics
-  authors:
-  - Teresa G Krieger
-  - Stephan M Tirier
-  - Jeongbin Park
-  - Tanja Eisemann
-  - Heike Peterziel
-  - Peter Angel
-  - Roland Eils
-  - Christian Conrad
-  publisher: openRxiv
-  date: '2019-05-07'
-  link: https://doi.org/gf4fw4
-  orcid: 0000-0001-6676-9988
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/529677
-  title: "Mutations in thyroid hormone receptor \u03B11 cause premature neurogenesis\
-    \ and progenitor cell depletion in human cortical development"
-  authors:
-  - Teresa G Krieger
-  - Carla M Moran
-  - Alberto Frangini
-  - W Edward Visser
-  - Erik Schoenmakers
-  - Francesco Muntoni
-  - Chris Clark
-  - David Gadian
-  - Wui K Chong
-  - Adam Kuczynski
-  - Mehul Dattani
-  - Greta Lyons
-  - Alexandra Efthymiadou
-  - Faraneh Varga-Khadem
-  - Benjamin D Simons
-  - Krishna Chatterjee
-  - Frederick J Livesey
-  publisher: openRxiv
-  date: '2019-01-26'
-  link: https://doi.org/gkt3s2
-  orcid: 0000-0001-6676-9988
-  plugin: orcid.py
-  file: orcid.yaml
-- id: issn:1091-6490
-  title: ISSN 1091-6490 - Proceedings of the National Academy of Sciences of the United
-    States of America (Online)
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/1091-6490
-  orcid: 0000-0001-6676-9988
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1242/dev.101063
-  title: Dynamic stem cell heterogeneity
-  authors:
-  - Teresa Krieger
-  - Benjamin D. Simons
-  publisher: Development
-  date: '2015-04-15'
-  link: https://doi.org/f69xwq
-  orcid: 0000-0001-6676-9988
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/review_ben.png
-- id: issn:0092-8674
-  title: ISSN 0092-8674 - Cell (Cambridge)
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/0092-8674
-  orcid: 0000-0001-6676-9988
-  plugin: orcid.py
-  file: orcid.yaml
 - id: arxiv:2608.16669
   title: Concept-based explanation of gene expression prediction from H&E images
   authors:
@@ -368,6 +144,118 @@
   image: images/publications/covid.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1186/s13046-022-02519-7
+  title: Patient-specific modeling of stroma-mediated chemoresistance of pancreatic
+    cancer using a three-dimensional organoid-fibroblast co-culture system
+  authors:
+  - Sebastian Schuth
+  - Solange Le Blanc
+  - Teresa G. Krieger
+  - Julia Jabs
+  - Miriam Schenk
+  - Nathalia A. Giese
+  - "Markus W. B\xFCchler"
+  - Roland Eils
+  - Christian Conrad
+  - Oliver Strobel
+  publisher: Journal of Experimental &amp; Clinical Cancer Research
+  date: '2022-10-22'
+  link: https://doi.org/grt4vh
+  image: images/publications/pdac_organoids.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-021-26059-4
+  title: Single-cell analysis of patient-derived PDAC organoids reveals cell state
+    heterogeneity and a conserved developmental hierarchy
+  authors:
+  - Teresa G. Krieger
+  - Solange Le Blanc
+  - Julia Jabs
+  - Foo Wei Ten
+  - Naveed Ishaque
+  - Katharina Jechow
+  - Olivia Debnath
+  - Carl-Stephan Leonhardt
+  - Anamika Giri
+  - Roland Eils
+  - Oliver Strobel
+  - Christian Conrad
+  publisher: Nature Communications
+  date: '2021-10-05'
+  link: https://doi.org/gnq8zc
+  image: images/publications/pdac_sc.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/cancers13051097
+  title: Functional States in Tumor-Initiating Cell Differentiation in Human Colorectal
+    Cancer
+  authors:
+  - Martina K. Zowada
+  - Stephan M. Tirier
+  - Sebastian M. Dieter
+  - Teresa G. Krieger
+  - Ava Oberlack
+  - Robert Lorenz Chua
+  - Mario Huerta
+  - Foo Wei Ten
+  - Karin Laaber
+  - Jeongbin Park
+  - Katharina Jechow
+  - "Torsten M\xFCller"
+  - Mathias Kalxdorf
+  - Mark Kriegsmann
+  - Katharina Kriegsmann
+  - Friederike Herbst
+  - Jeroen Krijgsveld
+  - Martin Schneider
+  - Roland Eils
+  - Hanno Glimm
+  - Christian Conrad
+  - Claudia R. Ball
+  publisher: Cancers
+  date: '2021-03-04'
+  link: https://doi.org/g65j6s
+  image: images/publications/crc_stephan.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/neuonc/noaa091
+  title: Modeling glioblastoma invasion using human brain organoids and single-cell
+    transcriptomics
+  authors:
+  - Teresa G Krieger
+  - Stephan M Tirier
+  - Jeongbin Park
+  - Katharina Jechow
+  - Tanja Eisemann
+  - Heike Peterziel
+  - Peter Angel
+  - Roland Eils
+  - Christian Conrad
+  publisher: Neuro-Oncology
+  date: '2020-04-16'
+  link: https://doi.org/gtcxnt
+  image: images/publications/glioblastoma.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1242/jcs.245043
+  title: Automated 3D light-sheet screening with high spatiotemporal resolution reveals
+    mitotic phenotypes
+  authors:
+  - "Bj\xF6rn Eismann"
+  - Teresa G. Krieger
+  - "J\xFCrgen Beneke"
+  - Ruben Bulkescher
+  - Lukas Adam
+  - Holger Erfle
+  - Carl Herrmann
+  - Roland Eils
+  - Christian Conrad
+  publisher: Journal of Cell Science
+  date: '2020-06-01'
+  link: https://doi.org/gtrbcv
+  image: images/publications/bjoern.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1073/pnas.1908762116
   title: "Mutations in thyroid hormone receptor \u03B11 cause premature neurogenesis\
     \ and progenitor cell depletion in human cortical development"
@@ -395,6 +283,36 @@
   image: images/publications/thra.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1038/s41598-019-48771-4
+  title: "Pheno-seq \u2013 linking visual features and gene expression in 3D cell\
+    \ culture systems"
+  authors:
+  - Stephan M. Tirier
+  - Jeongbin Park
+  - "Friedrich Preu\xDFer"
+  - Lisa Amrhein
+  - Zuguang Gu
+  - Simon Steiger
+  - Jan-Philipp Mallm
+  - Teresa Krieger
+  - Marcel Waschow
+  - "Bj\xF6rn Eismann"
+  - Marta Gut
+  - Ivo G. Gut
+  - Karsten Rippe
+  - Matthias Schlesner
+  - Fabian Theis
+  - Christiane Fuchs
+  - Claudia R. Ball
+  - Hanno Glimm
+  - Roland Eils
+  - Christian Conrad
+  publisher: Scientific Reports
+  date: '2019-08-26'
+  link: https://doi.org/g6trvm
+  image: images/publications/pheno_seq.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1073/pnas.1715911114
   title: Troy+ brain stem cells cycle through quiescence and regulate their number
     by sensing niche occupancy
@@ -415,6 +333,17 @@
   date: '2018-01-08'
   link: https://doi.org/gcw59k
   image: images/publications/troy.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1242/dev.101063
+  title: Dynamic stem cell heterogeneity
+  authors:
+  - Teresa Krieger
+  - Benjamin D. Simons
+  publisher: Development
+  date: '2015-04-15'
+  link: https://doi.org/f69xwq
+  image: images/publications/review_ben.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cell.2014.10.027
