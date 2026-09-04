@@ -245,7 +245,7 @@
   description: We introduce an interpretable framework that links molecular states
     to tissue morphology, turning gene expression prediction from H&E into a tool
     for discovering the morphological concepts underlying tumour biology.
-  image: images/publications/
+  image: images/publications/crp.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2022.09.23.509133
@@ -441,5 +441,52 @@
   date: '2014-11-01'
   link: https://doi.org/f6phdw
   image: images/publications/cell.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00401-025-02894-3
+  title: Outcome-associated factors in a molecularly defined cohort of central neurocytoma
+  authors:
+  - Maja Krech
+  - Amos Muench
+  - Daniel Teichmann
+  - Peter Kuzman
+  - Abigail K. Suwala
+  - Franziska M. Ippen
+  - "Michael M\xFCther"
+  - Katharina J. Weber
+  - Katharina Wenger-Alakmeh
+  - Julia Onken
+  - Peter Vajkoczy
+  - Felix Behling
+  - Sven-Axel May
+  - Georgios Ntoulias
+  - Joachim K. Krauss
+  - Oday Atallah
+  - Majid Esmaeilzadeh
+  - Wolf C. Mueller
+  - Frank L. Heppner
+  - Helena Radbruch
+  - Carsten Dittmayer
+  - Werner Stenzel
+  - Arend Koch
+  - David Capper
+  - David Kaul
+  - Werner Paulus
+  - Karl H. Plate
+  - Joachim P. Steinbach
+  - Markus Czabanka
+  - Rudi Beschorner
+  - Andreas von Deimling
+  - Michael Bockmayr
+  - Julia E. Neumann
+  - Sebastian Brandner
+  - Teresa Krieger
+  - Christian Hartmann
+  - Christian Thomas
+  - Leonille Schweizer
+  publisher: Acta Neuropathologica
+  date: '2025-06-11'
+  link: https://doi.org/hchqmp
+  image: images/publications/neurocytoma.jpg
   plugin: sources.py
   file: sources.yaml
