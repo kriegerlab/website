@@ -22,7 +22,7 @@ We develop interpretable machine-learning methods to predict molecular states fr
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/predict.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -47,7 +47,7 @@ We are a multidisciplinary team of computer scientists, biologists and clinician
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/xenium.png"
   link="team"
   title="Our Team"
   text=text
