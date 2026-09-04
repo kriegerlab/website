@@ -147,7 +147,7 @@
   orcid: 0000-0001-6676-9988
   plugin: sources.py
   file: sources.yaml
-  image: images/publications/phenoseq.png
+  image: images/publications/pheno_seq.png
 - id: doi:10.1101/630202
   title: Modeling glioblastoma invasion using human brain organoids and single-cell
     transcriptomics
