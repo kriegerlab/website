@@ -1,6 +1,6 @@
 - id: arxiv:2608.16669
   description: We introduce an interpretable framework that links molecular states to tissue morphology, turning gene expression prediction from H&E into a tool for discovering the morphological concepts underlying tumour biology.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  image: images/publications/
 # date: 2020-12-4
 # buttons:
 #   - type: manubot
@@ -12,33 +12,50 @@
 #     link: http://manubot.org/
 # repo: greenelab/meta-review
 
-# Recent work / preprints
-
-- id: doi:10.1158/2159-8290.CD-24-1738
+# Preprints
 
 - id: doi:10.1101/2022.09.23.509133
   description: We integrate spatial transcriptomics and tissue morphology to show how transcriptionally defined tumour cell states correspond to distinct patterns of spatial organisation and tissue architecture.
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: images/publications/pdac_alex.png
   
 
 # Published papers
 
-- id: doi:10.1186/s13046-022-02519-7
+- id: doi:10.1158/2159-8290.CD-24-1738
+  image: images/publications/mycn.jpg
 
+- id: https://www.nature.com/articles/s41587-020-00796-1
+  image: images/publications/covid.png
+
+- id: doi:10.1186/s13046-022-02519-7
+  image: images/publications/pdac_organoids.png
+  
 - id: doi:10.1038/s41467-021-26059-4
+  image: images/publications/pdac_sc.png
 
 - id: doi:10.3390/cancers13051097
+  image: images/publications/crc_stephan.png
 
 - id: doi:10.1093/neuonc/noaa091
-
+  image: images/publications/glioblastoma.png
+  
 - id: doi:10.1242/jcs.245043
-
+  image: images/publications/bjoern.png
+  
 - id: doi:10.1073/pnas.1908762116
-
+  image: images/publications/thra.png
+  
 - id: doi:10.1038/s41598-019-48771-4
-
+  image: images/publications/phenoseq.png
+  
 - id: doi:10.1073/pnas.1715911114
-
+  image: images/publications/troy.jpg
+  
 - id: doi:10.1242/dev.101063
-
+  image: images/publications/review_ben.png
+  
 - id: doi:10.1016/j.cell.2014.10.027
+  image: images/publications/cell.png
+
+
+  
