@@ -31,14 +31,4 @@ nav:
 
 **Mohammad el-Ismail** worked on his MSc thesis with us, making deep learning based predictions from H&E images of pancreatic cancer. Then went into industry as a computer vision engineer. 
 
-{% include section.html %}
 
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
