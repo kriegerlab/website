@@ -46,7 +46,7 @@
   image: images/publications/thra.png
   
 - id: doi:10.1038/s41598-019-48771-4
-  image: images/publications/phenoseq.png
+  image: images/publications/pheno_seq.png
   
 - id: doi:10.1073/pnas.1715911114
   image: images/publications/troy.jpg
