@@ -31,11 +31,15 @@ h6 {
 
 .research-tags span {
   display: inline-block;
-  padding: 10px 24px;
+  padding: 4px 12px;
+  line-height: 1.2;
+
   border: 1px solid var(--primary);
-  border-radius: 20px;
+  border-radius: 12px;
+
   color: var(--primary);
-  background: transparent;
+  background: #eef2f7;
+
   font-family: var(--body);
   font-size: 1rem;
   font-weight: var(--semi-bold);
