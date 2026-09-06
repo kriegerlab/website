@@ -2,6 +2,8 @@
 name: Luisa Dinda
 image: images/people/Luisa.jpg
 description: MD student
+aliases:
+  - Dinda
 links:
   email: luisa.dinda@charite.de
 ---
