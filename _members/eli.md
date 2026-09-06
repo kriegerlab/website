@@ -2,6 +2,8 @@
 name: Eli Spies
 image: images/people/eli.jpg
 description: MD student
+aliases:
+  - Spies
 links:
   email: eli.spies@charite.de
 ---
