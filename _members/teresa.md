@@ -3,12 +3,7 @@ name: Teresa G Krieger
 image: images/people/teresa2.png
 description: Principal Investigator
 aliases:
-  - T. Krieger
-  - T Krieger
-  - T G Krieger
-  - T. G. Krieger
-  - Teresa Krieger
-  - Teresa Gabriela Krieger
+  - Krieger
 links:
   orcid: 0000-0001-6676-9988
 ---
