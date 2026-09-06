@@ -11,7 +11,7 @@ We develop interpretable machine-learning methods to predict molecular states fr
 
 {%
   include button.html
-  link="projects"
+  link="research"
   text="Explore"
   icon="fa-solid fa-arrow-right-long"
   flip=true
