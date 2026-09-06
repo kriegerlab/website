@@ -23,9 +23,9 @@
 }
 
 :root {
-  --title: "Bodoni Moda", serif;
-  --heading: "Bodoni Moda", serif;
-  --body: "Public Sans", sans-serif;
+  --title: "Inter", sans-serif;
+  --heading: "Inter", sans-serif;
+  --body: "Inter", sans-serif;
   --code: "Roboto Mono", monospace;
   --large: 1.35rem;
   --xl: 1.6rem;

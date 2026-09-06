@@ -1,1 +1,1 @@
-Sitemap: http://kriegerlab.org/sitemap.xml
+Sitemap: https://kriegerlab.org/sitemap.xml
